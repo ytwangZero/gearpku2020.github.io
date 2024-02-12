@@ -9,7 +9,7 @@ redirect_from:
 
 Presenter highlighted in **bold**
 
-<details>
+<details open>
   <summary>2023</summary>
   <ul>
     <li><strong>Xu Gao</strong>. Epidemiology of air pollution and human aging: preliminary findings – The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China, May 2023. **[Oral]**</li>
