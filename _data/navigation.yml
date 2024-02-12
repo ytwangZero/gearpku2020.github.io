@@ -1,0 +1,33 @@
+# main links links
+main:
+  - title: "About"
+    url: /aboutgear/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "People"
+    url: /People/
+
+  #- title: "CV"
+  #  url: /cv/
+    
+  - title: "Publications"
+    url: /Publications/
+
+  - title: "Presentations"
+    url: /Presentations/
+
+  - title: "Join"
+    url: /JoinGaoLab/     
+
+  #- title: "Microbiome Service Core"
+  #  url: /microbiome/   
+            
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+    
+  #- title: "Talks"
+  #  url: /talks/
+    
+
