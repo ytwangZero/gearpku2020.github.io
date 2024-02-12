@@ -1,0 +1,33 @@
+# main links links
+main:
+
+  - title: "Research"
+    url: /research/
+
+  - title: "People"
+    url: /People/
+
+  #- title: "CV"
+  #  url: /cv/
+    
+  - title: "Join"
+    url: /JoinShenLab/ 
+    
+  - title: "Publications"
+    url: /Publications/
+
+  - title: "Presentations"
+    url: /Presentations/    
+
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Microbiome Service Core"
+    url: /microbiome/   
+            
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+
+    
+
