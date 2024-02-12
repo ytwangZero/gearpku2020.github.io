@@ -11,9 +11,12 @@ main:
 
   #- title: "CV"
   #  url: /cv/
+            
+  - title: "Blog Posts"
+    url: /year-archive/
     
-  - title: "Publications"
-    url: /Publications/
+  # - title: "Publications"
+  #   url: /Publications/
 
   - title: "Presentations"
     url: /Presentations/
@@ -23,9 +26,6 @@ main:
 
   #- title: "Microbiome Service Core"
   #  url: /microbiome/   
-            
-  - title: "Blog Posts"
-    url: /year-archive/
     
   #- title: "Talks"
   #  url: /talks/
