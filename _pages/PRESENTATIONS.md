@@ -7,95 +7,26 @@ redirect_from:
   - /markdown.html
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Presentations</title>
-    <style>
-        /* Add your CSS styling here */
-        .presentation {
-            margin-bottom: 20px;
-        }
-        .pagination {
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div id="presentations">
-        <!-- Presentations will be dynamically added here -->
-    </div>
+{% assign presentations = site.data.presentations | sort: 'year' | reverse %}
+{% assign presentationsPerPage = 3 %}
+{% assign totalPages = presentations.size | divided_by: presentationsPerPage | plus: 1 %}
 
-    <div id="pagination" class="pagination">
-        <!-- Pagination buttons will be dynamically added here -->
-    </div>
+{% for page in (1..totalPages) %}
+  {% capture currentPage %}{{ page }}{% endcapture %}
+  {% assign presentationsOnPage = presentations | slice: (page | minus: 1) | times: presentationsPerPage, presentationsPerPage %}
+  
+  {% if presentationsOnPage.size > 0 %}
+    ## 演示 - 第 {{ currentPage }} 页
 
-    <script>
-        const presentations = [
-            {
-                year: "2023",
-                presentations: [
-                    { title: "Epidemiology of air pollution and human aging: preliminary findings", event: "The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China", date: "May 2023" },
-                    { title: "Short-term PM2.5 exposure and epigenetic aging: a quasi-experimental study", event: "The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China", date: "May 2023" },
-                    { title: "Short-term PM2.5 exposure and epigenetic aging: a quasi-experimental study", event: "The 7th Asian Congress on Environmental Mutagens, Qingdao, China", date: "May 2023" }
-                ]
-            },
-            // Add other years' presentations similarly
-        ];
-
-        const presentationsDiv = document.getElementById('presentations');
-        const paginationDiv = document.getElementById('pagination');
-
-        let currentPage = 1;
-        const presentationsPerPage = 3;
-
-        function displayPresentations(page) {
-            presentationsDiv.innerHTML = ''; // Clear existing presentations
-
-            const startIndex = (page - 1) * presentationsPerPage;
-            const endIndex = startIndex + presentationsPerPage;
-
-            const currentPresentations = presentations.slice(startIndex, endIndex);
-
-            currentPresentations.forEach(year => {
-                const yearHeading = document.createElement('h2');
-                yearHeading.textContent = year.year;
-                presentationsDiv.appendChild(yearHeading);
-
-                year.presentations.forEach(presentation => {
-                    const presentationDiv = document.createElement('div');
-                    presentationDiv.classList.add('presentation');
-                    presentationDiv.innerHTML = `<strong>${presentation.title}</strong> - ${presentation.event}, ${presentation.date}`;
-                    presentationsDiv.appendChild(presentationDiv);
-                });
-            });
-        }
-
-        function displayPagination() {
-            paginationDiv.innerHTML = ''; // Clear existing pagination
-
-            const numPages = Math.ceil(presentations.length / presentationsPerPage);
-
-            for (let i = 1; i <= numPages; i++) {
-                const button = document.createElement('button');
-                button.textContent = i;
-                button.addEventListener('click', () => {
-                    currentPage = i;
-                    displayPresentations(currentPage);
-                    window.scrollTo(0, 0); // Scroll to top after pagination
-                });
-                paginationDiv.appendChild(button);
-            }
-        }
-
-        displayPresentations(currentPage);
-        displayPagination();
-    </script>
-</body>
-</html>
-
+    {% for presentation in presentationsOnPage %}
+      {% assign year = presentation.year %}
+      {% if forloop.first or year != presentationsOnPage[forloop.index0 | minus: 1].year %}
+        ### {{ year }}
+      {% endif %}
+      {{ forloop.index }}. **{{ presentation.presenter }}**. {{ presentation.title }} – {{ presentation.event }}, {{ presentation.date }}. **\[{{ presentation.type }}\]**
+    {% endfor %}
+  {% endif %}
+{% endfor %}
 
 Presenter highlighted in **bold**
 
