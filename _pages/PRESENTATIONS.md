@@ -9,10 +9,6 @@ redirect_from:
 
 Presenter highlighted in **bold**
 
-details summary::-webkit-details-marker {
-  list-style-type: circle;
-}
-
 <details open>
   <summary>2023</summary>
   <ul>
