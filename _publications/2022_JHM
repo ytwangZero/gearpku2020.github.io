@@ -1,0 +1,10 @@
+---
+title: "Predicting crop root concentration factors of organic contaminants with machine learning models"
+collection: publications
+permalink: https://doi.org/10.1016/j.jhazmat.2021.127437
+excerpt: '[Code](https://github.com/YikeShen/Gao-and-Shen-et-al_Journal-of-Hazardous-Materials_2022), https://github.com/YikeShen/Gao-and-Shen-et-al_Journal-of-Hazardous-Materials_2022'
+date: February 2022
+venue: 'Journal of Hazardous Materials'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0304389421024055'
+citation: 'Gao F#, Shen Y#, Sallach JB, Li H, Zhang W, Li Y*, Liu C*. 2022. Predicting crop root concentration factors of organic contaminants with machine learning models. Journal of Hazardous Materials. 424, 127437. #Equal Contribution '
+---
