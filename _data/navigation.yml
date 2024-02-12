@@ -11,15 +11,12 @@ main:
 
   #- title: "CV"
   #  url: /cv/
-            
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  - title: "Publications"
-    url: /Publications/
 
   - title: "Presentations"
     url: /Presentations/
+    
+  - title: "Publications"
+    url: /Publications/
 
   - title: "Join"
     url: /JoinGaoLab/     
@@ -29,5 +26,7 @@ main:
     
   #- title: "Talks"
   #  url: /talks/
-    
+                
+  # - title: "Blog Posts"
+  #   url: /year-archive/
 
