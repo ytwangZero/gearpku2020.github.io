@@ -7,27 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-{% assign presentations = site.data.presentations | sort: 'year' | reverse %}
-{% assign presentationsPerPage = 3 %}
-{% assign totalPages = presentations.size | divided_by: presentationsPerPage | plus: 1 %}
-
-{% for page in (1..totalPages) %}
-  {% capture currentPage %}{{ page }}{% endcapture %}
-  {% assign presentationsOnPage = presentations | slice: (page | minus: 1) | times: presentationsPerPage, presentationsPerPage %}
-  
-  {% if presentationsOnPage.size > 0 %}
-    ## 演示 - 第 {{ currentPage }} 页
-
-    {% for presentation in presentationsOnPage %}
-      {% assign year = presentation.year %}
-      {% if forloop.first or year != presentationsOnPage[forloop.index0 | minus: 1].year %}
-        ### {{ year }}
-      {% endif %}
-      {{ forloop.index }}. **{{ presentation.presenter }}**. {{ presentation.title }} – {{ presentation.event }}, {{ presentation.date }}. **\[{{ presentation.type }}\]**
-    {% endfor %}
-  {% endif %}
-{% endfor %}
-
 Presenter highlighted in **bold**
 
 ## 2023
