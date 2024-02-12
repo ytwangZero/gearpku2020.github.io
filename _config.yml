@@ -14,6 +14,9 @@ locale                   : "en-US"
 title                    : "GEAR Official"
 title_separator          : "-"
 # excerpt_separator        : "<!--more-->"
+plugins: [jekyll-paginate]
+paginate: 20 # 每页文章数
+paginate_path: "essay/page:num" # 可选，分页链接
 name                     : &name "Xu Gao"
 description              : &description "Laboratory Website"
 url                      : https://gearpku2020.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
