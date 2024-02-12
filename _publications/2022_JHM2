@@ -1,0 +1,10 @@
+---
+title: "Predicting pesticide dissipation half-life intervals in plants with machine learning models"
+collection: publications
+permalink: https://doi.org/10.1016/j.jhazmat.2022.129177
+excerpt: '[Code](https://github.com/YikeShen/Shen-et-al.-Journal-of-Hazardous-Materials_2022), https://github.com/YikeShen/Shen-et-al.-Journal-of-Hazardous-Materials_2022'
+date: August 2022
+venue: 'Journal of Hazardous Materials'
+paperurl: 'https://doi.org/10.1016/j.jhazmat.2022.129177'
+citation: 'Shen Y, Zhao E, Zhang W*, Baccarelli AA, Gao F*. (2022). Predicting pesticide dissipation half-life intervals in plants with machine learning models. Journal of Hazardous Materials. 436, 129177'
+---
