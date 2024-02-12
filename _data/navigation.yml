@@ -11,12 +11,12 @@ main:
 
   #- title: "CV"
   #  url: /cv/
-
-  - title: "Presentations"
-    url: /Presentations/
     
   - title: "Publications"
     url: /Publications/
+    
+  - title: "Presentations"
+    url: /Presentations/
 
   - title: "Join"
     url: /JoinGaoLab/     
