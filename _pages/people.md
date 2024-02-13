@@ -24,7 +24,7 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 
 ## Students
 [Meijie Jiang](../_people/Meijie-Jiang.md)
-![Meijie Jiang](MeijieJiangPic.png)
+![](MeijieJiangPic.png)
 ### Meijie Jiang
 * Ph.D. student in Environmental Public Health, Peking University, Beijing, China
 * Master of Science in Environmental Health, Peking University, Beijing, China
