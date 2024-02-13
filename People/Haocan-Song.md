@@ -1,3 +1,8 @@
+---
+permalink: /People/Haocan-Song.md/
+title: "Haocan Song"
+---
+
 ![](../_pages/HaocanSongPic.png)
 ### Haocan Song
 * Research Intern, National Institute of Environmental Health, China CDC, Beijing, China
