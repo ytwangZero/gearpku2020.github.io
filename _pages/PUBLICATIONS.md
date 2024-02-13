@@ -31,6 +31,10 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
         
         
         
+        
+        
+        
+        
         ">Read</a></li>
   <li><strong>Gao X*</strong>, Huang N, Jiang M, Holleczek B, Schöttker B, Huang T, Brenner H. Mortality and morbidity risk prediction for older former smokers based on a score of smoking history: evidence from UK Biobank and ESTHER cohorts. Age and Ageing, 2022, afac154. <a href="https://pubmed.ncbi.nlm.nih.gov/35780433/">Read</a></li>
   <li><strong>Gao X*</strong>, Huang N, Guo X, Huang T. Role of sleep quality in the acceleration of biological aging and its potential for preventive interaction on air pollution insults: Findings from the UK Biobank cohort. Aging cell, 2022, e13610. <a href="https://pubmed.ncbi.nlm.nih.gov/35421261/">Read</a></li>
@@ -56,7 +60,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
   <summary>2019</summary>
   <ul>
   <li><strong>Gao X*</strong>, Colicino E, Shen J, Just AC, Nwanaji-Enwerem JC, Wang C, Coull B, Lin X, Vokonas P, Zheng Y, Hou L, Schwartz J, Baccarelli AA. Comparative validation of an epigenetic mortality risk score with three aging biomarkers for predicting mortality risks among older adult males. International Journal of Epidemiology. 2019; 48, 1958-1971. <a href="https://pubmed.ncbi.nlm.nih.gov/31038702/">Read</a></li>
-  <li><strong>Gao X*</strong>, Gào X, Zhang Y, Holleczek B, Schöttker B, Brenner H. Oxidative stress and epigenetic mortality risk score: associations with all-cause mortality among elderly people. European Journal of Epidemiology. 2019; 451-462. <a href="https://pubmed.ncbi.nlm.nih.gov/30771035/">Read</</li>
+  <li><strong>Gao X*</strong>, Gào X, Zhang Y, Holleczek B, Schöttker B, Brenner H. Oxidative stress and epigenetic mortality risk score: associations with all-cause mortality among elderly people. European Journal of Epidemiology. 2019; 451-462. <a href="https://pubmed.ncbi.nlm.nih.gov/30771035/">Read</li>
   </ul>
 </details>
 
