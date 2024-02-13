@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /Research/
 title: "Research"
 author_profile: true
 redirect_from: 
