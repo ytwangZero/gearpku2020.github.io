@@ -23,7 +23,7 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 * 2006 - 2011 Bachelor's degree (Preventive Medicine), Fudan University (China)
 
 ## Students
-[Meijie Jiang](/People/meijie-jiang)
+[Meijie Jiang](../_people/Meijie-Jiang.md)
 ![Meijie Jiang](MeijieJiangPic.png)
 ### Meijie Jiang
 * Ph.D. student in Environmental Public Health, Peking University, Beijing, China
