@@ -24,16 +24,7 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 
 ## Students
 
-<table>
-  <tr>
-    <td><a href="../People/Meijie-Jiang.md">![Meijie Jiang](MeijieJiangPic.png)</a></td>
-    <td><a href="../People/Shuzhen-Liu.md"><img src="./ShuzhenLiuPic.png"></a></td>
-    <td><a href="../People/Haocan-Song.md"><img src="./HaocanSongPic.png"></a></td>
-  </tr>
-  <tr>
-    <td><a href="../People/Sifan-Tian.md"><img src="./SifanTianPic.png"></a></td>
-    <td><a href="../People/Yuting-Wang.md"><img src="./YutingWangPic.png"></a></td>
-    <td></td>
-  </tr>
-</table>
+[![](MeijieJiangPic.png)](../People/Meijie-Jiang.md)[![](ShuzhenLiuPic.png)](../People/Shuzhen-Liu.md)[![](HaocanSongPic.png)](../People/Haocan-Song.md)
+
+[![](SifanTianPic.png)](../People/Sifan-Tian.md)[![](YutingWangPic.png)](../People/Yuting-Wang.md)
 
