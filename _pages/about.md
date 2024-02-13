@@ -1,5 +1,5 @@
 ---
-permalink: /aboutgear/
+permalink: /AboutGEAR/
 title: "About GEAR"
 excerpt: "About GEAR"
 author_profile: true
