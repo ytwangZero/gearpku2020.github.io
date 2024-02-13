@@ -26,6 +26,6 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](ShuzhenLiuPic.png)](../People/Shuzhen-Liu.md) | [![](HaocanSongPic.png)](../People/Haocan-Song.md)
 [<center>Meijie Jiang</center>](../People/Meijie-Jiang.md) | [<center>Shuzhen Liu</center>](../People/Shuzhen-Liu.md) | [<center>Haocan Song</center>](../People/Haocan-Song.md)
-[![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md) | ...
-[<center>Sifan Tian</center>](../People/Sifan-Tian.md) | [<center>Yuting Wang</center>](../People/Yuting-Wang.md) | ...
+[![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md) | <center>Waiting for you...</center>
+[<center>Sifan Tian</center>](../People/Sifan-Tian.md) | [<center>Yuting Wang</center>](../People/Yuting-Wang.md) | <center>...</center>
 
