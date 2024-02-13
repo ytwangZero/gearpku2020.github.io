@@ -23,31 +23,31 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 * 2006 - 2011 Bachelor's degree (Preventive Medicine), Fudan University (China)
 
 ## Students
-[![](MeijieJiangPic.png)](../_people/Meijie-Jiang.md)
+[![](MeijieJiangPic.png)](../People/Meijie-Jiang.md)
 ### Meijie Jiang
 * Ph.D. student in Environmental Public Health, Peking University, Beijing, China
 * Master of Science in Environmental Health, Peking University, Beijing, China
 * Bachelor of Science in Environmental Science, Jilin University, Jilin Province, China
 
-[![](ShuzhenLiuPic.png)](../_people/Shuzhen-Liu.md)
+[![](ShuzhenLiuPic.png)](../People/Shuzhen-Liu.md)
 ### Shuzhen Liu
 * Ph.D. student in Environmental Public Health, Peking University, Beijing, China
 * Master of Medicine in Public Health, Guangxi Medical University, Guangxi Province, China
 * Bachelor of Medicine in Public Health, Medical Colleges Of Guilin, Guangxi Province, China 
 
-[![](HaocanSongPic.png)](../_people/Haocan-Song.md)
+[![](HaocanSongPic.png)](../People/Haocan-Song.md)
 ### Haocan Song
 * Research Intern, National Institute of Environmental Health, China CDC, Beijing, China
 * Biostatistician II, Vanderbilt University Medical Center, Nashville, Tennessee, United States
 * Master of Public Health in Biostatistics, Rollins School of Public Health, Emory University, Atlanta, Georgia, United States
 * Bachelor of Engineering in Food Quality and Safety, College of Food Science, Southwest University, Chongqing, China 
 
-[![](SifanTianPic.png)](../_people/Sifan-Tian.md)
+[![](SifanTianPic.png)](../People/Sifan-Tian.md)
 ### Sifan Tian
 * M.S. student in Environmental Public Health, Peking University, Beijing, China
 * Bachelor of Medicine in Public Health, Peking University, Beijing, China
 
-[![](YutingWangPic.png)](../_people/Yuting-Wang.md)
+[![](YutingWangPic.png)](../People/Yuting-Wang.md)
 ### Yuting Wang
 * M.S. student in Environmental Public Health, Peking University, Beijing, China
 * Bachelor of Medicine in Public Health, Peking University, Beijing, China
