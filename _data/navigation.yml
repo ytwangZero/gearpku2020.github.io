@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About"
-    url: /aboutgear/
+    url: /AboutGEAR/
 
   - title: "Research"
-    url: /research/
+    url: /Research/
 
   - title: "People"
     url: /People/
