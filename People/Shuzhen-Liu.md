@@ -1,3 +1,8 @@
+---
+permalink: /People/Shuzhen-Liu.md/
+title: "Shuzhen Liu"
+---
+
 ![](../_pages/ShuzhenLiuPic.png)
 ### Shuzhen Liu
 * Ph.D. student in Environmental Public Health, Peking University, Beijing, China
