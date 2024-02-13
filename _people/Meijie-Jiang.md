@@ -1,3 +1,8 @@
+---
+permalink: /People/meijie-jiang/
+title: "Meijie Jiang"
+---
+
 ![](../_pages/MeijieJiangPic.png)
 
 ### Meijie Jiang
