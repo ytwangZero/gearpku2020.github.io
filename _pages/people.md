@@ -26,13 +26,14 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 
 <table>
   <tr>
-    <td>[![](MeijieJiangPic.png)](../_people/Meijie-Jiang.md)<br>### Meijie Jiang<br></td>
-    <td>[![](ShuzhenLiuPic.png)](../_people/Shuzhen-Liu.md)<br>### Shuzhen Liu<br></td>
-    <td>[![](HaocanSongPic.png)](../_people/Haocan-Song.md)<br>### Haocan Song<br></td>
+    <td><a href="../_people/Meijie-Jiang.md"><img src="MeijieJiangPic.png"></a></td>
+    <td><a href="../_people/Shuzhen-Liu.md"><img src="ShuzhenLiuPic.png"></a></td>
+    <td><a href="../_people/Haocan-Song.md"><img src="HaocanSongPic.png"></a></td>
   </tr>
   <tr>
-    <td>[![](SifanTianPic.png)](../_people/Sifan-Tian.md)<br>### Sifan Tian<br></td>
-    <td>[![](YutingWangPic.png)](../_people/Yuting-Wang.md)<br>### Yuting Wang<br></td>
+    <td><a href="../_people/Sifan-Tian.md"><img src="SifanTianPic.png"></a></td>
+    <td><a href="../_people/Yuting-Wang.md"><img src="YutingWangPic.png"></a></td>
     <td></td>
   </tr>
 </table>
+
