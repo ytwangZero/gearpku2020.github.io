@@ -1,5 +1,5 @@
 ---
-permalink: /People/meijie-jiang/
+permalink: /People/meijiejiang/
 title: "Meijie Jiang"
 ---
 
