@@ -16,5 +16,8 @@ Our research group focuses on unveiling the multifaceted relationship between mu
 Our research group specializes in quantitatively assessing environment-induced accelerated aging, elucidating the pathways through which environmental factors contribute to aging-related health risks. By employing rigorous scientific methodologies, we aim to provide insights into the impact of environmental exposures on the aging process and associated health outcomes. Through our focused investigations, we seek to advance understanding in this critical area of research, informing strategies for mitigating environmental aging health risks and promoting healthier living environments.
 
 ## Direction 3: 
+
+![](./EST.png#pic_center)
+
 Our research group specializes in elucidating the role of DNA methylation as a pivotal molecular event in environmental aging. By investigating the dynamic changes induced by environmental exposures, we aim to identify potential molecular targets for precision prevention strategies. Through our efforts, we strive to provide valuable insights into the mechanisms underlying environmental aging, ultimately contributing to the development of interventions aimed at promoting healthy aging and mitigating the impact of environmental factors on human health.
 
