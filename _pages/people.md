@@ -22,7 +22,7 @@ CV: [Xu Gao.pdf](https://github.com/gearpku2020/gearpku2020.github.io/blob/main/
 * 2011 - 2014 Master's degree (Pathogenic Biology), Fudan University (China)
 * 2006 - 2011 Bachelor's degree (Preventive Medicine), Fudan University (China)
 
-## Students
+# Students
 
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](ShuzhenLiuPic.png)](../People/Shuzhen-Liu.md) | [![](HaocanSongPic.png)](../People/Haocan-Song.md)
 [<center>Meijie Jiang</center>](../People/Meijie-Jiang.md) | [<center>Shuzhen Liu</center>](../People/Shuzhen-Liu.md) | [<center>Haocan Song</center>](../People/Haocan-Song.md)
