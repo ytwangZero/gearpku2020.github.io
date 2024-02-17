@@ -31,8 +31,6 @@ We are seeking to recruit 1-2 postdoctoral fellows to support our expanding rese
 
 * Research on aging biomarkers and molecular epidemiology based on multi-omics data.
 
-Interested candidates are encouraged to submit their application materials including a CV, cover letter, and references to [contact information] by [deadline]. Shortlisted candidates will be contacted for further interviews.
-
 ### Application Materials:
 
 * Curriculum Vitae (CV) including a list of publications.
@@ -45,5 +43,5 @@ Interested candidates are encouraged to submit their application materials inclu
 * Applications will be reviewed, and selected candidates will be invited for interviews. The usual entry times for regular full-time postdoctoral fellows are in January, April, July, and October each year.
 * Shortlisted candidates will be notified separately for interview arrangements. Procedures for entry into the Peking University Medical School postdoctoral program will be followed.
 
-Updated 02/18/2014 
+Updated 02/18/2024 
 
