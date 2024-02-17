@@ -20,5 +20,3 @@ School of Public Health, Peking University \
 No.38 Xueyuan Road, Haidian District \
 Beijing, China 100191\
 Email: <xu.gao@pku.edu.cn>
-
-Updated 08/01/2023
