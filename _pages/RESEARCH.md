@@ -9,7 +9,7 @@ redirect_from:
 
 ## Direction 1:
 
-![](./NA.png#pic_center)
+![](./NA.png#pic_center){:width: 60%;padding-left: 20%;}
 
 Our research group focuses on unveiling the multifaceted relationship between multidimensional temporal-spatial and composite environmental pollution exposure and its implications for multisystem aging health risks. Through rigorous scientific inquiry, we aim to deepen the objective understanding of environmental aging phenomena. Our investigations delve into the dynamic temporal-spatial dimensions of pollution exposure, analyze the synergistic effects of multiple pollutants, and elucidate the interconnectedness of physiological systems in the context of aging. By advancing knowledge in this field, we seek to inform policies and practices that promote healthier environments and mitigate the adverse effects of environmental stressors on human health.
 
@@ -21,6 +21,6 @@ Our research group specializes in quantitatively assessing environment-induced a
 
 ## Direction 3: 
 
-![](./EST.png#pic_center){:height="200px"}
+![](./EST.png#pic_center)
 
-Our research group specializes in elucidating the role of DNA methylation as a pivotal molecular event in environmental aging. By investigating the dynamic changes induced by environmental exposures, we aim to identify potential molecular targets for precision prevention strategies. Through our efforts, we strive to provide valuable insights into the mechanisms underlying environmental aging, ulti
+Our research group specializes in elucidating the role of DNA methylation as a pivotal molecular event in environmental aging. By investigating the dynamic changes induced by environmental exposures, we aim to identify potential molecular targets for precision prevention strategies. Through our efforts, we strive to provide valuable insights into the mechanisms underlying environmental aging, ultimately cont
