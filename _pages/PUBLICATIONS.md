@@ -65,7 +65,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
   <ul>
     <li><strong>Gao X*</strong>, Colicino E, Shen J, Just AC, Nwanaji-Enwerem JC, Wang C, Coull B, Lin X, Vokonas P, Zheng Y, Hou L, Schwartz J, Baccarelli AA. Comparative validation of an epigenetic mortality risk score with three aging biomarkers for predicting mortality risks among older adult males. International Journal of Epidemiology. 2019; 48, 1958-1971. <a href="https://pubmed.ncbi.nlm.nih.gov/31038702/">Read</a></li>
     <li><strong>Gao X*</strong>, Gào X, Zhang Y, Holleczek B, Schöttker B, Brenner H. Oxidative stress and epigenetic mortality risk score: associations with all-cause mortality among elderly people. European Journal of Epidemiology. 2019; 451-462. <a href="https://pubmed.ncbi.nlm.nih.gov/30771035/">Read</a></li>
-    <li><strong>Koutrakis P, Blomberg A, Coull B, Vokonas P, Schwartz J, Baccarelli AA. Short-term ambient particle radioactivity level and renal function in older men: Insight from the Normative Aging Study. Environment International. 2019; 131, 105018-25. <a href="https://pubmed.ncbi.nlm.nih.gov/31336254/">Read</a></li>
+    <li><strong>Gao X*</strong>, Koutrakis P, Blomberg A, Coull B, Vokonas P, Schwartz J, Baccarelli AA. Short-term ambient particle radioactivity level and renal function in older men: Insight from the Normative Aging Study. Environment International. 2019; 131, 105018-25. <a href="https://pubmed.ncbi.nlm.nih.gov/31336254/">Read</a></li>
   </ul>
 </details>
 
