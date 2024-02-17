@@ -17,7 +17,9 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 
 <details open>
   <summary>2024</summary>
-
+<ul>
+  <li><strong>Gao X*</strong>...</li>
+</ul>
 </details>
 
 <details>
@@ -25,6 +27,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 <ul>
   <li><strong>Gao X*</strong>, Tong G, Jiang M, Huang N, Zheng Y, Belsky D*, Huang T. Accelerated biological aging and risk of depression and anxiety: evidence from 424,299 UK Biobank participants. Nature Communications, 2023. <a href="https://www.nature.com/articles/s41467-023-38013-7">Read</a></li>
   <li><strong>Gao X*</strong>, Jiang M, Huang N, Guo X, Huang T. Long-Term Air Pollution, Genetic Susceptibility, and the Risk of Depression and Anxiety: A Prospective Study in the UK Biobank Cohort. Environmental Health Perspectives, 2023. <a href="https://pubmed.ncbi.nlm.nih.gov/36598457/">Read</a></li>
+  <li><strong>Gao X*</strong>, Tian S, Huang N, Sun G, Huang T. Associations of daily sedentary behavior, physical activity, and sleep with irritable bowel syndrome: a prospective analysis of 362,193 participants. Journal of Sport and Health Science, 2023. <a href="https://pubmed.ncbi.nlm.nih.gov/36801455/">Read</a></li>
 </ul>
 </details>
 
@@ -45,6 +48,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
   <summary>2021</summary>
   <ul>
     <li><strong>Gao X*</strong>, Coull B, Lin X, Vokonas P, Spiro A III, Hou L, Schwartz J, Baccarelli AA. Short-term air pollution, cognitive performance and nonsteroidal anti-inflammatory drug use in the Veterans Affairs Normative Aging Study. Nature Aging. 2021. <a href="https://www.nature.com/articles/s43587-021-00060-4">Read</a></li>
+    <li><strong>Gao X*</strong>, Koutrakis P, Coull B, Lin X, Vokonas P, Schwartz J, Baccarelli AA. Short-term exposure to PM2.5 components and renal health: findings from the Veterans Affairs Normative Aging Study. Journal of Hazardous Materials. 2021. <a href="https://pubmed.ncbi.nlm.nih.gov/34252666/">Read</a></li>
   </ul>
 </details>
 
@@ -61,7 +65,8 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
   <ul>
     <li><strong>Gao X*</strong>, Colicino E, Shen J, Just AC, Nwanaji-Enwerem JC, Wang C, Coull B, Lin X, Vokonas P, Zheng Y, Hou L, Schwartz J, Baccarelli AA. Comparative validation of an epigenetic mortality risk score with three aging biomarkers for predicting mortality risks among older adult males. International Journal of Epidemiology. 2019; 48, 1958-1971. <a href="https://pubmed.ncbi.nlm.nih.gov/31038702/">Read</a></li>
     <li><strong>Gao X*</strong>, Gào X, Zhang Y, Holleczek B, Schöttker B, Brenner H. Oxidative stress and epigenetic mortality risk score: associations with all-cause mortality among elderly people. European Journal of Epidemiology. 2019; 451-462. <a href="https://pubmed.ncbi.nlm.nih.gov/30771035/">Read</a></li>
+    <li><strong>Koutrakis P, Blomberg A, Coull B, Vokonas P, Schwartz J, Baccarelli AA. Short-term ambient particle radioactivity level and renal function in older men: Insight from the Normative Aging Study. Environment International. 2019; 131, 105018-25. <a href="https://pubmed.ncbi.nlm.nih.gov/31336254/">Read</a></li>
   </ul>
 </details>
 
-Updated 08/01/2023
+Updated 02/18/2024
