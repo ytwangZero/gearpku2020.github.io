@@ -28,6 +28,6 @@ Our research group specializes in quantitatively assessing environment-induced a
 
 ## Direction 3: 
 
-![](./EST.png#pic_center)
+![](./EST.png#pic_center){:height="200px"}
 
 Our research group specializes in elucidating the role of DNA methylation as a pivotal molecular event in environmental aging. By investigating the dynamic changes induced by environmental exposures, we aim to identify potential molecular targets for precision prevention strategies. Through our efforts, we strive to provide valuable insights into the mechanisms underlying environmental aging, ultimately cont
