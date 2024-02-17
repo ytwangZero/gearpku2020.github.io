@@ -11,7 +11,7 @@ redirect_from:
 ![](GEARcloud.png)
 
 
-Welcome to our website! 
+GEAR, short for Gao Lab of Environmental Epidemiology & Aging Research, was established in 2020. The Principal Investigator of the research group is Dr. XU Gao, Assistant Professor, Associate Researcher, and Ph.D. Supervisor at the Department of Occupational and Environmental Health, School of Public Health, Peking University. Currently, the laboratory comprises 2 full-time doctoral students, 1 part-time doctoral student, and 2 master's students. The primary focus of this laboratory lies in conducting precise epidemiological research on environmental health and aging, utilizing epigenomics, genomics, and other population-based omics data.
 
 Contact Information
 =====
