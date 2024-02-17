@@ -8,7 +8,7 @@ redirect_from:
   - /markdown.html
 ---
 
-![](GEAR.png)
+![](GEARcloud.png)
 
 
 Welcome to our website! 
