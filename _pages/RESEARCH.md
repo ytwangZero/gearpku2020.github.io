@@ -11,7 +11,7 @@ Our research group focuses on unveiling the multifaceted relationship between mu
 
 ## Direction 2: 
 
-![](./NCR.png#pic_center{width=100px})
+![](./NCR.png#pic_center{width=10px})
 Our research group specializes in quantitatively assessing environment-induced accelerated aging, elucidating the pathways through which environmental factors contribute to aging-related health risks. By employing rigorous scientific methodologies, we aim to provide insights into the impact of environmental exposures on the aging process and associated health outcomes. Through our focused investigations, we seek to advance understanding in this critical area of research, informing strategies for mitigating environmental aging health risks and promoting healthier living environments.
 
 ## Direction 3: 
