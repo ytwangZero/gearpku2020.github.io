@@ -7,6 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 ## Direction 1:
+
+![](./NA.png#pic_center){:width="300px"}
+
 Our research group focuses on unveiling the multifaceted relationship between multidimensional temporal-spatial and composite environmental pollution exposure and its implications for multisystem aging health risks. Through rigorous scientific inquiry, we aim to deepen the objective understanding of environmental aging phenomena. Our investigations delve into the dynamic temporal-spatial dimensions of pollution exposure, analyze the synergistic effects of multiple pollutants, and elucidate the interconnectedness of physiological systems in the context of aging. By advancing knowledge in this field, we seek to inform policies and practices that promote healthier environments and mitigate the adverse effects of environmental stressors on human health.
 
 ## Direction 2: 
