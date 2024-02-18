@@ -3,7 +3,7 @@ permalink: /People/Meijie-Jiang.md/
 title: "Meijie Jiang"
 ---
 
-![](../_pages/MeijieJiangPic.png)
+![](../_pages/jmj.png)
 
 ### Meijie Jiang
 
