@@ -17,7 +17,7 @@ Preventing health risks associated with the environment is a central objective o
 
 ## Direction 2: 
 
-### Exploring Environmental Aging: Understanding and Addressing Health Risks
+### Aging Acceleration: Key to Advancing Environmental Aging Research
 
 ![](./NCR.png#pic_center)
 
