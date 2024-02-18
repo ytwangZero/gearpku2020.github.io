@@ -4,7 +4,9 @@ title: "Haocan Song"
 ---
 
 ![](../_pages/shc.png)
-### Haocan Song
+
+---
+### Education
 * Research Intern, National Institute of Environmental Health, China CDC, Beijing, China
 * Biostatistician II, Vanderbilt University Medical Center, Nashville, Tennessee, United States
 * Master of Public Health in Biostatistics, Rollins School of Public Health, Emory University, Atlanta, Georgia, United States

@@ -5,6 +5,7 @@ title: "Meijie Jiang"
 
 ![](../_pages/jmj.png)
 
+---
 ### Education
 
 * Ph.D. student in Environmental Public Health, Peking University, Beijing, China

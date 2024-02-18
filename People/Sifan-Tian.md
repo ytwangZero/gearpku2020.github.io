@@ -4,6 +4,8 @@ title: "Sifan Tian"
 ---
 
 ![](../_pages/tsf.png)
+
+---
 ### Education
 * M.S. student in Environmental Public Health, Peking University, Beijing, China
 * Bachelor of Medicine in Public Health, Peking University, Beijing, China
