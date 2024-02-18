@@ -12,4 +12,4 @@ title: "Haocan Song"
 
 ### Information
 
-* Email: <2311120010@stu.pku.edu.cn>
+* Email: <songhaocan@stu.pku.edu.cn>
