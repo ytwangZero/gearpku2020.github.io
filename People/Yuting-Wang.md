@@ -4,6 +4,13 @@ title: "Yuting Wang"
 ---
 
 ![](../_pages/wyt.png)
-### Yuting Wang
+
+### Education
+
 * M.S. student in Environmental Public Health, Peking University, Beijing, China
 * Bachelor of Medicine in Public Health, Peking University, Beijing, China
+
+### Information
+
+* Publications: <a href="https://www.researchgate.net/profile/Yuting-Wang-112">click here. </a>
+* Email: <ytwang@pku.edu.cn>
