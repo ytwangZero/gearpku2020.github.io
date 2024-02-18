@@ -12,5 +12,7 @@ title: "Yuting Wang"
 
 ### Information
 
-* Publications: <a href="https://www.researchgate.net/profile/Yuting-Wang-112">click here. </a>
+* Publications: <a href="https://www.researchgate.net/profile/Yuting-Wang-112">click here</a>
+* GitHub: <a href="https://github.com/ytwangZero">@ytwangZero</a>
 * Email: <ytwang@pku.edu.cn>
+

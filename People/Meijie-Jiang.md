@@ -13,5 +13,5 @@ title: "Meijie Jiang"
 
 ### Information
 
-* Publications: <a href="https://www.researchgate.net/profile/Meijie-Jiang">click here. </a>
+* Publications: <a href="https://www.researchgate.net/profile/Meijie-Jiang">click here</a>
 * Email: <jiangmeijie2018@pku.edu.cn>
