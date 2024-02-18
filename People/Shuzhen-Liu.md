@@ -3,7 +3,7 @@ permalink: /People/Shuzhen-Liu.md/
 title: "Shuzhen Liu"
 ---
 
-![](../_pages/ShuzhenLiuPic.png)
+![](../_pages/lsz.png)
 ### Shuzhen Liu
 * Ph.D. student in Environmental Public Health, Peking University, Beijing, China
 * Master of Medicine in Public Health, Guangxi Medical University, Guangxi Province, China
