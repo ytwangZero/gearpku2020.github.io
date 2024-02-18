@@ -3,7 +3,7 @@ permalink: /People/Haocan-Song.md/
 title: "Haocan Song"
 ---
 
-![](../_pages/HaocanSongPic.png)
+![](../_pages/shc.png)
 ### Haocan Song
 * Research Intern, National Institute of Environmental Health, China CDC, Beijing, China
 * Biostatistician II, Vanderbilt University Medical Center, Nashville, Tennessee, United States
