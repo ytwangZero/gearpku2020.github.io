@@ -9,3 +9,7 @@ title: "Haocan Song"
 * Biostatistician II, Vanderbilt University Medical Center, Nashville, Tennessee, United States
 * Master of Public Health in Biostatistics, Rollins School of Public Health, Emory University, Atlanta, Georgia, United States
 * Bachelor of Engineering in Food Quality and Safety, College of Food Science, Southwest University, Chongqing, China 
+
+### Information
+
+* Email: <2311120010@stu.pku.edu.cn>

@@ -4,7 +4,12 @@ title: "Shuzhen Liu"
 ---
 
 ![](../_pages/lsz.png)
-### Shuzhen Liu
+
+### Education
 * Ph.D. student in Environmental Public Health, Peking University, Beijing, China
 * Master of Medicine in Public Health, Guangxi Medical University, Guangxi Province, China
 * Bachelor of Medicine in Public Health, Medical Colleges Of Guilin, Guangxi Province, China 
+
+### Information
+
+* Email: <liushuzhen@stu.pku.edu.cn>
