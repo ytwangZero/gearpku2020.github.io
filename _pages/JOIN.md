@@ -23,7 +23,7 @@ We are seeking to recruit 1-2 postdoctoral fellows to support our expanding rese
 
 * Proficiency in data management, English writing, and communication skills is required. Candidates should have published at least two high-quality papers as the first author in international peer-reviewed journals within the past five years.
 
-* Candidates must meet the postdoctoral management regulations of Peking University Medical School. For those applying for the Boya Postdoctoral Fellowship, please refer to the Boya Postdoctoral Fellowship Program at Peking University: https://postdocs.bjmu.edu.cn/tzgg/index.htm
+* Candidates must meet the postdoctoral management regulations of Peking University Medical School. For those applying for the Boya Postdoctoral Fellowship, please refer to the Boya Postdoctoral Fellowship Program at Peking University: <a href="https://postdocs.bjmu.edu.cn/tzgg/index.htm">here</a>
 
 ### Research Directions:
 
