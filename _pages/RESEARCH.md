@@ -9,7 +9,7 @@ redirect_from:
 
 ## Direction 1:
 
-### Reveal Population Evidence
+### Environmental Aging: Impacts of Atmospheric Pollution on Health Risks
 
 [![](./NA.png#pic_center)](https://www.nature.com/articles/s43587-021-00060-4)
 
@@ -17,11 +17,11 @@ Preventing health risks associated with the environment is a central objective o
 
 ## Direction 2: 
 
-### Assessing Aging Risks
+### Exploring Environmental Aging: Understanding and Addressing Health Risks
 
 ![](./NCR.png#pic_center)
 
-Our research group specializes in quantitatively assessing environment-induced accelerated aging, elucidating the pathways through which environmental factors contribute to aging-related health risks. By employing rigorous scientific methodologies, we aim to provide insights into the impact of environmental exposures on the aging process and associated health outcomes. Through our focused investigations, we seek to advance understanding in this critical area of research, informing strategies for mitigating environmental aging health risks and promoting healthier living environments.
+Effective prevention and control of environmental aging hold the potential to shift the prevention focus upstream for various age-related diseases, thereby enabling personalized interventions targeting a unified endpoint for "preventing disease before it occurs." However, due to the complexity of environmental exposure and the heterogeneity of health conditions among middle-aged and elderly populations, existing research struggles to differentiate between environmental aging and normal natural aging. This lack of understanding of environmental aging phenomena, coupled with a dearth of assessment tools and prevention targets, hampers efforts in environmental aging health risk prevention and control. To overcome this developmental bottleneck and deepen scientific understanding of environmental aging health risks, we have innovatively introduced the concept of "Aging Acceleration" based on systematic aging biology theory <a href="https://www.nature.com/articles/s41467-023-38013-7">(Gao et al., 2023, Nature Communications). </a>. This approach facilitates precise measurement of individual-level environmental aging levels, systematically addressing the core scientific question of "assessment and prevention of environmental aging health risks." <a href="https://doi.org/10.1038/s44161-024-00438-8">(Jiang et al., 2024, Nature Cardiovascular Research). </a>. 
 
 ## Direction 3: 
 
