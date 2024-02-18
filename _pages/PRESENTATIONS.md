@@ -10,7 +10,7 @@ redirect_from:
 Presenter highlighted in **bold**
 
 <details open>
-  <summary>2023</summary>
+  <summary>**2023**</summary>
   <ul>
     <li><strong>Xu Gao</strong>. Epidemiology of air pollution and human aging: preliminary findings – The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China, May 2023. <strong>[Oral]</strong></li>
     <li><strong>Xu Gao</strong>. Short-term PM2.5 exposure and epigenetic aging: a quasi-experimental study – The 7th Conference on Environmental Health Risks and Prevention and Control of New Environmental Pollutants, Zhengzhou, China, May 2023. <strong>[Oral]</strong></li>
@@ -19,7 +19,7 @@ Presenter highlighted in **bold**
 </details>
 
 <details>
-  <summary>2022</summary>
+  <summary>**2022**</summary>
   <ul>
     <li><strong>Xu Gao</strong>. Data processing of cardiometabolic multimorbidity and study findings – The 33rd Great Wall International Congress of Cardiology / Asia Heart Society Congress 2022, Online Virtual, October 2022. <strong>[Oral]</strong></li>
     <li><strong>Xu Gao</strong>. Role of sleep quality in the acceleration of biological aging and its potential for preventive interaction on air pollution insults: Findings from the UK Biobank cohort– International Society of Environmental Epidemiology 2022 Conference, Athence, Greece, September 2022. <strong>[Oral]</strong></li>
@@ -28,7 +28,7 @@ Presenter highlighted in **bold**
 </details>
 
 <details>
-  <summary>2021</summary>
+  <summary>**2021**</summary>
   <ul>
     <li><strong>Xu Gao</strong>. Short-term air pollution, cognitive performance and nonsteroidal anti-inflammatory drug use in the Veterans Affairs Normative Aging Study– China 27th Conference on Atmospheric Environment Science and Technology, Online Virtual, November 2021. <strong>[Oral]</strong></li>
     <li><strong>Xu Gao</strong>. Epidemiological findings on environmental aging – China Conference on Environment and Health 2021, Chengdu, China, October 2021. <strong>[Keynote speaker & Session Chair]</strong></li>
@@ -38,4 +38,5 @@ Presenter highlighted in **bold**
   </ul>
 </details>
 
+---
 Updated 02/18/2024

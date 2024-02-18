@@ -34,11 +34,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 <details>
   <summary>2022</summary>
   <ul>
-    <li><strong>Gao X#</strong>, Huang J#, Cardenas A, Zhao Y, Sun Y, Wang J, Xue L, Baccarelli AA, Guo X, Zhang L, Wu S. Short-Term Exposure of PM2.5 and Epigenetic Aging: A Quasi-Experimental Study. Environmental Science & Technology, 2022. <a href="https://pubs.acs.org/doi/10.1021/acs.est.2c05534
-        
-        
-        
-        ">Read</a></li>
+    <li><strong>Gao X#</strong>, Huang J#, Cardenas A, Zhao Y, Sun Y, Wang J, Xue L, Baccarelli AA, Guo X, Zhang L, Wu S. Short-Term Exposure of PM2.5 and Epigenetic Aging: A Quasi-Experimental Study. Environmental Science & Technology, 2022. <a href="https://pubs.acs.org/doi/10.1021/acs.est.2c05534">Read</a></li>
     <li><strong>Gao X*</strong>, Huang N, Jiang M, Holleczek B, Schöttker B, Huang T, Brenner H. Mortality and morbidity risk prediction for older former smokers based on a score of smoking history: evidence from UK Biobank and ESTHER cohorts. Age and Ageing, 2022, afac154. <a href="https://pubmed.ncbi.nlm.nih.gov/35780433/">Read</a></li>
     <li><strong>Gao X*</strong>, Huang N, Guo X, Huang T. Role of sleep quality in the acceleration of biological aging and its potential for preventive interaction on air pollution insults: Findings from the UK Biobank cohort. Aging cell, 2022, e13610. <a href="https://pubmed.ncbi.nlm.nih.gov/35421261/">Read</a></li>
   </ul>
@@ -69,4 +65,5 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
   </ul>
 </details>
 
+---
 Updated 02/18/2024
