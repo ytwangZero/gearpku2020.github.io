@@ -39,7 +39,7 @@ We are seeking to recruit 1-2 postdoctoral fellows to support our expanding rese
 
 ### Application Process:
 
-* Deadline for applications is December 31, 2024. Please send application materials to xu.gao@pku.edu.cn with the subject line "Postdoctoral Application + Applicant's Name."
+* Deadline for applications is December 31, 2024. Please send application materials to <xu.gao@pku.edu.cn> with the subject line "Postdoctoral Application + Applicant's Name."
 * Applications will be reviewed, and selected candidates will be invited for interviews. The usual entry times for regular full-time postdoctoral fellows are in January, April, July, and October each year.
 * Shortlisted candidates will be notified separately for interview arrangements. Procedures for entry into the Peking University Medical School postdoctoral program will be followed.
 
