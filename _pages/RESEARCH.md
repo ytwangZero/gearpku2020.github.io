@@ -19,14 +19,14 @@ Preventing health risks associated with the environment is a central objective o
 
 ### Aging Acceleration: Key to Advancing Environmental Aging Research
 
-![](./NCR.png#pic_center)
+![](./research2.png#pic_center)
 
 Effective prevention and control of environmental aging hold the potential to shift the prevention focus upstream for various age-related diseases, thereby enabling personalized interventions targeting a unified endpoint for "preventing disease before it occurs." However, due to the complexity of environmental exposure and the heterogeneity of health conditions among middle-aged and elderly populations, existing research struggles to differentiate between environmental aging and normal natural aging. This lack of understanding of environmental aging phenomena, coupled with a dearth of assessment tools and prevention targets, hampers efforts in environmental aging health risk prevention and control. To overcome this developmental bottleneck and deepen scientific understanding of environmental aging health risks, we have innovatively introduced the concept of "Aging Acceleration" based on systematic aging biology theory <a href="https://www.nature.com/articles/s41467-023-38013-7">(Gao et al., 2023, Nature Communications). </a>This approach facilitates precise measurement of individual-level environmental aging levels, systematically addressing the core scientific question of "assessment and prevention of environmental aging health risks." <a href="https://doi.org/10.1038/s44161-024-00438-8">(Jiang et al., 2024, Nature Cardiovascular Research). </a>
 
 ## Direction 3: 
 
-### DNA Methylation: Key Pathway in Environmental Aging and Precision Prevention
+### DNA Methylation in Environmental Aging: Precision Prevention
 
-[![](./EST.png#pic_center)](https://pubs.acs.org/doi/10.1021/acs.est.2c05534)
+![](./EST.png#pic_center)
 
 Building upon the preceding discussion, we further elucidate the role of DNA methylation as a pivotal molecular event in triggering environmental aging, thus providing potential molecular targets for precision prevention <a href="https://pubs.acs.org/doi/10.1021/acs.est.2c05534">(Gao et al., 2022, Environmental Science & Technology). </a>DNA methylation, an epigenetic modification, is increasingly recognized as a key mechanism through which environmental factors influence gene expression and contribute to the aging process. By altering the methylome, environmental exposures can lead to dysregulation of gene expression patterns associated with aging and age-related diseases. Therefore, understanding the dynamic interplay between environmental exposures and DNA methylation patterns holds promise for identifying individuals at heightened risk of environmental aging and developing targeted interventions to mitigate these risks.
