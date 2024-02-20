@@ -13,7 +13,7 @@ redirect_from:
 
 ## Job Announcement for Postdoctoral Fellows
 
-We are seeking to recruit 1-2 postdoctoral fellows to support our expanding research endeavors.
+We are seeking to recruit 1-2 postdoctoral fellows to support our expanding research endeavors. <a href="https://sph.pku.edu.cn/info/1015/6894.htm">(北京大学公共卫生学院高旭课题组博士后招聘启事)</a>
 
 ### Qualifications:
 
@@ -42,6 +42,8 @@ We are seeking to recruit 1-2 postdoctoral fellows to support our expanding rese
 * Deadline for applications is December 31, 2024. Please send application materials to <xu.gao@pku.edu.cn> with the subject line "Postdoctoral Application + Applicant's Name."
 * Applications will be reviewed, and selected candidates will be invited for interviews. The usual entry times for regular full-time postdoctoral fellows are in January, April, July, and October each year.
 * Shortlisted candidates will be notified separately for interview arrangements. Procedures for entry into the Peking University Medical School postdoctoral program will be followed.
+
+---
 
 Updated 02/18/2024 
 
