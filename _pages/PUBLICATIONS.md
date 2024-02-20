@@ -18,7 +18,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 <details open>
   <summary>2024</summary>
 <ul>
-  <li><strong>Gao X*</strong>, Guo T, Tian S, Xin H, Du J, Cao X, Feng B, He Y, He Y, Wang D, Zhang B, Liu Z, Yan J, Shen L, Di Y, Chen Y, Jin Q, Pan S, Kioumourtzoglou MA, Gao L. Impact of fine particulate matter on latent tuberculosis infection and active tuberculosis in older adults: a population-based multicentre cohort study. Emerg Microbes Infect, 2024. </li><a href="https://pubmed.ncbi.nlm.nih.gov/38240283/">Read</a></li>
+  <li><strong>Gao X*</strong>,Guo T, Tian S, Xin H, et al. Impact of fine particulate matter on latent tuberculosis infection and active tuberculosis in older adults: a population-based multicentre cohort study. Emerg Microbes Infect, 2024. <a href="https://pubmed.ncbi.nlm.nih.gov/38240283/">Read</a></li>
 </ul>
 </details>
 
