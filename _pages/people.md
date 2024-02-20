@@ -22,6 +22,8 @@ CV: [Xu Gao.pdf](https://book.yunzhan365.com/cbznj/fglb/mobile/index.html)
 * 2011 - 2014 Master's degree (Pathogenic Biology), Fudan University (China)
 * 2006 - 2011 Bachelor's degree (Preventive Medicine), Fudan University (China)
 
+---
+
 # Students
 
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](ShuzhenLiuPic.png)](../People/Shuzhen-Liu.md) | [![](HaocanSongPic.png)](../People/Haocan-Song.md)
