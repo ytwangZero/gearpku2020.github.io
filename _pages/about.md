@@ -1,6 +1,6 @@
 ---
 permalink: /AboutGEAR/
-title: "Overview"
+title: "About GEAR"
 excerpt: "About GEAR"
 author_profile: true
 redirect_from: 
