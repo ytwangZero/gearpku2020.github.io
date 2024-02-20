@@ -26,6 +26,10 @@ CV: [Xu Gao.pdf](https://book.yunzhan365.com/cbznj/fglb/mobile/index.html)
 
 [![](MeijieJiangPic.png)](../People/Meijie-Jiang.md) | [![](ShuzhenLiuPic.png)](../People/Shuzhen-Liu.md) | [![](HaocanSongPic.png)](../People/Haocan-Song.md)
 [<center>Meijie Jiang</center>](../People/Meijie-Jiang.md) | [<center>Shuzhen Liu</center>](../People/Shuzhen-Liu.md) | [<center>Haocan Song</center>](../People/Haocan-Song.md)
+<<<<<<< HEAD
 [![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md) | [![](you.png)](https://gearpku2020.github.io//JoinGaoLab/)
+=======
+[![](SifanTianPic.png)](../People/Sifan-Tian.md) | [![](YutingWangPic.png)](../People/Yuting-Wang.md) | [![](you.png)](./JOIN.md)
+>>>>>>> ba85ccf736fa38c1ad9c3470c0241d3159d54d34
 [<center>Sifan Tian</center>](../People/Sifan-Tian.md) | [<center>Yuting Wang</center>](../People/Yuting-Wang.md) | [<center>You?</center>](https://gearpku2020.github.io//JoinGaoLab/)
 
