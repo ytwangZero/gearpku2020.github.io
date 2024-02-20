@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About GEAR"
-excerpt: "About GEAR"
+title: "Meet The Team"
+excerpt: "Meet The Team"
 author_profile: true
 redirect_from: 
   - /md/
