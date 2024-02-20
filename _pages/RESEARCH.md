@@ -9,7 +9,7 @@ redirect_from:
 
 ## Direction 1:
 
-### Environmental Aging: Impacts of Atmospheric Pollution on Health Risks
+### Environmental Aging: Health Risks of Atmospheric Pollution
 
 ![](./research1.png#pic_center)
 
