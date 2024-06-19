@@ -18,7 +18,7 @@ Dr. Gao highlighted in **bold**; Corresponding authors marked*; Co-first authors
 <details open>
   <summary>2024</summary>
 <ul>
-  <li>Wang Y, Li H, Huang J, Jiang M, Tian S, Liu S, Zhang L*, Wu S*, Kan H*, <strong>Gao X*</strong>. Environ. Sci. Technol, 2024. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.4c00108">Read</a></li>
+  <li>Wang Y, Li H, Huang J, Jiang M, Tian S, Liu S, Zhang L*, Wu S*, Kan H*, <strong>Gao X*</strong>. Short-Term PM2.5 Exposure and DNA Methylation Changes of Circadian Rhythm Genes: Evidence from Two Experimental Studies. Environ. Sci. Technol, 2024. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.4c00108">Read</a></li>
   <li><strong>Gao X</strong>. Environmental aging: through the prism of DNA methylation. Epigenomics, 2024. <a href="https://doi.org/10.1080/17501911.2024.2345042">Read</a></li>
   <li>Jiang M, Tian S, Liu S, Wang Y, Guo X, Huang T, Lin X, Belsky D, Baccarelli AA, <strong>Gao X*</strong>. Accelerated biological aging elevates the risk of cardiometabolic multimorbidity and mortality. Nat Cardiovasc Res, 2024. <a href="https://www.nature.com/articles/s44161-024-00438-8#citeas">Read</a></li>
   <li>Guo T, Tian S, Xin H, Du J, Cao X, Feng B, He Y, He Y, Wang D, Zhang B, Liu Z, Yan J, Shen L, Di Y, Chen Y, Jin Q, Pan S, Kioumourtzoglou MA, Gao L, <strong>Gao X*</strong>. Impact of fine particulate matter on latent tuberculosis infection and active tuberculosis in older adults: a population-based multicentre cohort study. Emerg Microbes Infect, 2024. <a href="https://pubmed.ncbi.nlm.nih.gov/38240283/">Read</a></li>
