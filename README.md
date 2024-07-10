@@ -18,4 +18,4 @@ Explore our research group's webpage [here](https://gearpku2020.github.io//).
 
 ## Contact
 
-For inquiries about our research or webpage, please contact [Dr. Xu Gao] at [xu.gao@pku.edu.cn].
+For inquiries about our research or webpage, please contact Dr. Xu Gao at [xu.gao@pku.edu.cn].
