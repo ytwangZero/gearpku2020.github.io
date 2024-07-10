@@ -12,6 +12,9 @@ The webpage is developed and maintained by:
 
 - [Yuting Wang] - [a current master’s student in GEAR]
 
+## Website
+
+Explore our research group's webpage [here](https://gearpku2020.github.io//).
 
 ## Contact
 
